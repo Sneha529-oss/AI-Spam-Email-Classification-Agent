@@ -1,5 +1,4 @@
 # AI-Spam-Email-Classification-Agent
-# 📧 AI Spam Email Classification Agent
 
 An AI-powered spam detection workflow built using **n8n** and **OpenAI**.
 
